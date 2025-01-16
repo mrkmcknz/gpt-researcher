@@ -24,6 +24,9 @@ langchain = "^0.2"
 langgraph = ">=0.0.29,<0.3"
 langchain_community = "^0.2"
 langchain-openai = "^0.1"
+langchain-together = "^0.1"
+langchain-groq = "^0.1"
+langchain-voyageai = "^0.1"
 tavily-python = ">=0.2.8"
 permchain = ">=0.0.6"
 arxiv = ">=2.0.0"
@@ -42,6 +45,7 @@ json-repair = "^0.29.8"
 json5 = "^0.9.25"
 loguru = "^0.7.2"
 websockets = "^13.1"
+
 
 [build-system]
 requires = ["poetry-core"]

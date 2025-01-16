@@ -30,6 +30,9 @@ unstructured
 json_repair
 json5
 loguru
+langchain-voyageai
+langchain-groq
+langchain-together
 
 # uncomment for testing
 # pytest
